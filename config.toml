@@ -99,8 +99,8 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  #   Tried 'dark' theme and I do not like it.
-  color_theme = "forest"
+  #   Tried 'dark' and 'forest' themes and I do not like them as much as 'default'.
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
