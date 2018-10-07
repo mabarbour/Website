@@ -24,7 +24,13 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
+I study food webs ---how they're formed, how they function, and how they're changing.
+
+<!-- Other tag line ideas:
+
 Understanding and predicting the feedbacks between evolutionary processes and food-web structure.
+
+-->
 
 <!-- Useful ideas and setting below
 
