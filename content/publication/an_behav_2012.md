@@ -22,21 +22,21 @@ publication = "*Animal Behavior*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Research on predator–prey interactions often focuses largely on prey behaviour, treating predators as static danger, rather than as active behavioural participants that can respond adaptively to prey choices. A complete understanding of the functional significance of both predator attack behaviours and prey escape behaviours can only come from examining the interaction between both parties. For example, although the predatory strike of venomous snakes has been studied extensively in the laboratory, we have little understanding of the proximate factors influencing snake strike behaviour under natural conditions. Here, we report details of the analysis of predatory strikes of free-ranging rattlesnakes (Crotalus spp.) towards their natural prey. We found that over half of strike attempts were unsuccessful, and the most significant factor influencing strike success was the ability of prey animals to initiate a rapid evasive dodge manoeuvre in the fraction of a second after snakes initiated strikes, but before snake strikes contacted them. Snakes, in turn, initiated strikes most frequently towards the flank of laterally moving prey, which is probably an attempt to counter the ability of prey to dodge strikes."
+abstract = "Research on predator–prey interactions often focuses largely on prey behaviour, treating predators as static danger, rather than as active behavioural participants that can respond adaptively to prey choices. A complete understanding of the functional significance of both predator attack behaviours and prey escape behaviours can only come from examining the interaction between both parties. For example, although the predatory strike of venomous snakes has been studied extensively in the laboratory, we have little understanding of the proximate factors influencing snake strike behaviour under natural conditions. Here, we report details of the analysis of predatory strikes of free-ranging rattlesnakes (Crotalus spp.) towards their natural prey. We found that over half of strike attempts were unsuccessful, and the most significant factor influencing strike success was the ability of prey animals to initiate a rapid evasive dodge maneuvre in the fraction of a second after snakes initiated strikes, but before snake strikes contacted them. Snakes, in turn, initiated strikes most frequently towards the flank of laterally moving prey, which is probably an attempt to counter the ability of prey to dodge strikes."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["example-external-project"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -74,5 +74,3 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

@@ -29,14 +29,14 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["example-external-project"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -73,5 +73,3 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
