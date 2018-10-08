@@ -1,10 +1,10 @@
 +++
-title = "What genomic data can reveal about eco-evolutionary dynamics"
-date = 2018-01-01T00:00:00
+title = "Large herbivores and rainfall control arthropod communities in an African savanna-woodland ecosystem"
+date = 2019-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["SM Rudman","**MA Barbour**","K Csillery","P Gienapp","F Guillaume","NG Hairston Jr.","AP Hendry","JR Lasky","M Rafajlovic","K Rasanen","PS Schmidt","O Seehausen","NO Therkildsen","MM Turcotte","JM Levine"]
+authors = ["**MA Barbour**","GM Crutsinger","TR Kartzinel","S Kim","JR Goheen","TM Palmer","RM Pringle"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["SM Rudman","**MA Barbour**","K Csillery","P Gienapp","F Guillaume","
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Ecology and Evolution*"
+publication = "**In Preparation**"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -68,8 +68,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++

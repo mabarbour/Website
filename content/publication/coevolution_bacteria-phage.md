@@ -1,10 +1,10 @@
 +++
-title = "What genomic data can reveal about eco-evolutionary dynamics"
-date = 2018-01-01T00:00:00
+title = "Coevolutionary dynamics shape the structure of bacteria-phage interaction networks"
+date = 2019-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["SM Rudman","**MA Barbour**","K Csillery","P Gienapp","F Guillaume","NG Hairston Jr.","AP Hendry","JR Lasky","M Rafajlovic","K Rasanen","PS Schmidt","O Seehausen","NO Therkildsen","MM Turcotte","JM Levine"]
+authors = ["MA Fortuna","**MA Barbour**","L Zaman","AR Hall","A Buckling","J Bascompte"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["SM Rudman","**MA Barbour**","K Csillery","P Gienapp","F Guillaume","
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Ecology and Evolution*"
+publication = "**In Review** at *Evolution*"
 publication_short = ""
 
 # Abstract and optional shortened version.
