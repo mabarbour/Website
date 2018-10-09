@@ -24,9 +24,11 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-I study food webs ---how they're formed, how they function, and how they're changing.
+I study how species interactions shape the dynamics of biodiversity ---from genes to ecosystems.
 
 <!-- Other tag line ideas:
+
+I study food webs ---how they're formed, how they function, and how they're changing.
 
 Understanding and predicting the feedbacks between evolutionary processes and food-web structure.
 
