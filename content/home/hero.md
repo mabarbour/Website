@@ -13,7 +13,7 @@ weight = 3
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/Biostructure_Fig.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -24,9 +24,11 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-I study how species interactions shape the dynamics of biodiversity ---from genes to ecosystems.
+I study the feedbacks in the structure of biodiversity ---from genes to ecosystems.
 
 <!-- Other tag line ideas:
+
+I study how species interactions shape the dynamics of biodiversity ---from genes to ecosystems.
 
 I study food webs ---how they're formed, how they function, and how they're changing.
 
