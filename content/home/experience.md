@@ -25,21 +25,24 @@ date_format = "January 2006"
   location = "Switzerland"
   date_start = "2016-11-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
 
 [[experience]]
   title = "PhD in Zoology"
   company = "University of British Columbia"
   company_url = ""
   location = "Vancouver, Canada"
-  date_start = "2011-09-01"
-  date_end = "2016-09-15"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2012"
+  date_end = "2016"
+  description = ""
+  
+[[experience]]
+  title = "MSc in Ecology"
+  company = "San Diego State University"
+  company_url = ""
+  location = "California, USA"
+  date_start = "2010"
+  date_end = "2012"
+  description = ""
 
 +++
