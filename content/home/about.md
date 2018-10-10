@@ -8,29 +8,29 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Eco-evolutionary dynamics",
-    "Community ecology",
-    "Plant-insect interactions",
-    "Conserving biodiverstiy"
-  ]
+#[interests]
+#  interests = [
+#    "Eco-evolutionary dynamics",
+#    "Community ecology",
+#    "Plant-insect interactions",
+#    "Conserving biodiverstiy"
+#  ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Zoology"
-  institution = "University of British Columbia"
-  year = 2016
+#[[education.courses]]
+#  course = "PhD in Zoology"
+#  institution = "University of British Columbia"
+#  year = 2016
 
-[[education.courses]]
-  course = "MSc in Ecology"
-  institution = "San Diego State University"
-  year = 2012
+#[[education.courses]]
+#  course = "MSc in Ecology"
+#  institution = "San Diego State University"
+#  year = 2012
 
-[[education.courses]]
-  course = "BA in Biology"
-  institution = "Pomona College"
-  year = 2007
+#[[education.courses]]
+#  course = "BA in Biology"
+#  institution = "Pomona College"
+#  year = 2007
  
 +++
 

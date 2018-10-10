@@ -52,11 +52,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Matt Barbour"
-  role = "Postdoctoral Researcher"
+  role = "Postdoctoral Research Associated"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Zurich", url = "" } ]
+  organizations = [ { name = "University of Zurich, IEU", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -275,7 +275,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 1
 
 [[menu.main]]
