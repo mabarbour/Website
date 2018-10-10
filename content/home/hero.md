@@ -24,9 +24,11 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-I study the feedbacks in the structure of biodiversity ---from genes to ecosystems.
+I study how species interactions shape the structure of biodiversity ---from genes to ecosystems.
 
 <!-- Other tag line ideas:
+
+I study the feedbacks in the structure of biodiversity ---from genes to ecosystems.
 
 I study how species interactions shape the dynamics of biodiversity ---from genes to ecosystems.
 
