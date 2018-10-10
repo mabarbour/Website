@@ -32,8 +32,8 @@ date_format = "January 2006"
   company = "University of British Columbia"
   company_url = ""
   location = "Vancouver, Canada"
-  date_start = "2012"
-  date_end = "2016"
+  date_start = "2011-09-01"
+  date_end = "2016-09-15"
   description = ""
   
 [[experience]]
@@ -41,8 +41,8 @@ date_format = "January 2006"
   company = "San Diego State University"
   company_url = ""
   location = "California, USA"
-  date_start = "2010"
-  date_end = "2012"
+  date_start = "2011-09-01"
+  date_end = "2016-09-15"
   description = ""
 
 +++
