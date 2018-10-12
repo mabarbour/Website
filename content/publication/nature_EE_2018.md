@@ -26,10 +26,10 @@ abstract = "Recognition that evolution operates on the same timescale as ecologi
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "Fig_2_NatEE_2018.jpg"
+image_preview = "static/img/Fig_1_NatEE_2018_space.jpg"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.nature.com/articles/s41559-017-0385-2.epdf?shared_access_token=Q1_ZfuWeiSCZQId8aHW2xNRgN0jAjWel9jnR3ZoTv0PM8qCcFhr8M2ursSwD2TXp4loH0mQ40B00EDQ2mfp6JE_7vQH4T8fM5v8__P59mrYxbtxzOspwfEHF8MAd57r6muZ0BxOYz-VyiCJIBLqTJ_oiqDrwEwdeoDrclxdx3u4%3D"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
