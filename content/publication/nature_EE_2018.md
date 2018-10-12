@@ -26,7 +26,7 @@ abstract = "Recognition that evolution operates on the same timescale as ecologi
 abstract_short = "Here, we outline five major questions in the study of eco-evolutionary dynamics for which genomic data may provide new insight. We argue that integrating genomic data can provide a more mechanistic understanding of the causes of phenotypic change, help elucidate the mechanisms driving eco-evolutionary dynamics, and lead to more accurate predictions of evolutionary change."
 
 # Featured image thumbnail (optional)
-image_preview = "static/img/Fig_1_NatEE_2018_space.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -58,7 +58,7 @@ url_source = ""
 # url_custom = [{name = "*Journal of Ecology* Blog", url = "https://jecologyblog.com/2018/08/19/tracing-plant-genotype-by-environment-effects-on-biodiversity/"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1038/s41559-017-0385-2"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
