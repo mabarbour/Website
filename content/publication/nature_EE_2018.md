@@ -22,11 +22,11 @@ publication = "*Nature Ecology and Evolution*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Recognition that evolution operates on the same timescale as ecological processes has motivated growing interest in eco-evolutionary dynamics. Nonetheless, generating sufficient data to test predictions about eco-evolutionary dynamics has proved challenging, particularly in natural contexts. Here we argue that genomic data can be integrated into the study of eco-evolutionary dynamics in ways that deepen our understanding of the interplay between ecology and evolution. Specifically, we outline five major questions in the study of eco-evolutionary dynamics for which genomic data may provide answers. Although genomic data alone will not be sufficient to resolve these challenges, integrating genomic data can provide a more mechanistic understanding of the causes of phenotypic change, help elucidate the mechanisms driving eco-evolutionary dynamics, and lead to more accurate evolutionary predictions of eco-evolutionary dynamics in nature."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "static/img/Fig_2_NatEE_2018.jpg"
+image_preview = "Fig_2_NatEE_2018.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -69,7 +69,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-  image = "static/img/Fig_2_NatEE_2018.jpg"
+  image = "Fig_2_NatEE_2018.jpg"
   caption = "Trait evolution (upper panel) and its population dynamics consequences (lower panel) through time in predator (orange) and prey (blue) populations. Arrows indicate the eco-evolutionary information that can be obtained from sequencing at a single time point (estimate trait heritability with GRM (see Box 2) and measure the community-level impacts of large-effect genes), sequencing through time (measure the pace of evolution, use of genotype–phenotype linkages to find evolving traits), and combining sequence and population dynamics data for two species interacting over time (measure eco-evolutionary dynamics between two species (at the genetic level))."
 
 +++
