@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "*Journal of Ecology* Blog", url = "https://jecologyblog.com/2018/08/19/tracing-plant-genotype-by-environment-effects-on-biodiversity/"}]
+url_custom = [{name = "Journal of Ecology Blog", url = "https://jecologyblog.com/2018/08/19/tracing-plant-genotype-by-environment-effects-on-biodiversity/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
