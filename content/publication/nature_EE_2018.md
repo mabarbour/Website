@@ -69,7 +69,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-  image = "Fig_1_NatEE_2018.jpg"
+  image = "Fig_1_NatEE_2018_space.jpg"
   caption = "Five major questions in eco-evolutionary dynamics."
 
 +++
