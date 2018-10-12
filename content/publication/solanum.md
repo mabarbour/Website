@@ -1,6 +1,6 @@
 +++
 title = "Large herbivores and rainfall control arthropod communities in an African savanna-woodland ecosystem"
-date = 2019-01-01T00:00:00
+date = 2018-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -68,8 +68,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-#[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption :smile:"
+[header]
+image = ""
+caption = ""
 
 +++

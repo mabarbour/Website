@@ -4,7 +4,7 @@ date = 2012-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["MA Barbour","RW Clark"]
+authors = ["**MA Barbour**","RW Clark"]
 
 # Publication type.
 # Legend:
@@ -47,11 +47,11 @@ url_pdf = "pdf/Barbour_2012-Proc_B.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "http://datadryad.org/handle/10255/dryad.40466"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -70,9 +70,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
