@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Recognition that evolution operates on the same timescale as ecological processes has motivated growing interest in eco-evolutionary dynamics. Nonetheless, generating sufficient data to test predictions about eco-evolutionary dynamics has proved challenging, particularly in natural contexts. Here we argue that genomic data can be integrated into the study of eco-evolutionary dynamics in ways that deepen our understanding of the interplay between ecology and evolution. Specifically, we outline five major questions in the study of eco-evolutionary dynamics for which genomic data may provide answers. Although genomic data alone will not be sufficient to resolve these challenges, integrating genomic data can provide a more mechanistic understanding of the causes of phenotypic change, help elucidate the mechanisms driving eco-evolutionary dynamics, and lead to more accurate evolutionary predictions of eco-evolutionary dynamics in nature."
-abstract_short = ""
+abstract_short = "Here, we outline five major questions in the study of eco-evolutionary dynamics for which genomic data may provide new insight. We argue that integrating genomic data can provide a more mechanistic understanding of the causes of phenotypic change, help elucidate the mechanisms driving eco-evolutionary dynamics, and lead to more accurate predictions of evolutionary change."
 
 # Featured image thumbnail (optional)
 image_preview = "static/img/Fig_1_NatEE_2018_space.jpg"
