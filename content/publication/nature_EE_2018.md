@@ -18,7 +18,7 @@ authors = ["SM Rudman","**MA Barbour**","K Csillery","P Gienapp","F Guillaume","
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Ecology and Evolution*"
+publication = "*Nature Ecology and Evolution*"
 publication_short = ""
 
 # Abstract and optional shortened version.
