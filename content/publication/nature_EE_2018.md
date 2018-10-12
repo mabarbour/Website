@@ -69,7 +69,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-  image = "Fig_2_NatEE_2018.jpg"
-  caption = "Trait evolution (upper panel) and its population dynamics consequences (lower panel) through time in predator (orange) and prey (blue) populations. Arrows indicate the eco-evolutionary information that can be obtained from sequencing at a single time point (estimate trait heritability with GRM (see Box 2) and measure the community-level impacts of large-effect genes), sequencing through time (measure the pace of evolution, use of genotype–phenotype linkages to find evolving traits), and combining sequence and population dynamics data for two species interacting over time (measure eco-evolutionary dynamics between two species (at the genetic level))."
+  image = "Fig_1_NatEE_2018.jpg"
+  caption = "Five major questions in eco-evolutionary dynamics."
 
 +++
