@@ -29,7 +29,7 @@ abstract_short = "Here, we outline five major questions in the study of eco-evol
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
