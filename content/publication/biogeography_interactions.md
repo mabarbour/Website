@@ -1,5 +1,5 @@
 +++
-title = "Biogeography of species interactions: a network approach"
+title = "Biogeography of species interactions: partner fidelity and asymmetric specialization"
 date = 2018-10-01T00:00:00
 draft = false
 

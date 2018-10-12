@@ -1,10 +1,10 @@
 +++
 title = "Food-web complexity alters the adaptive landscape of an insect herbivore"
-date = 2017-01-24T00:00:00
+date = 2018-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["MA Barbour","CJ Greyson-Gaito", "A Sootodeh", "B Locke", "J Bascompte"]
+authors = ["**MA Barbour**","CJ Greyson-Gaito", "A Sootodeh", "B Locke", "J Bascompte"]
 
 # Publication type.
 # Legend:
@@ -68,8 +68,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++

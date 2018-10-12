@@ -1,5 +1,5 @@
 +++
-title = "Trait plasticity is more important than genetic variation in determining species richness of associated communities."
+title = "Trait plasticity is more important than genetic variation in determining species richness of associated communities"
 date = 2018-08-01T00:00:00
 draft = false
 
@@ -69,7 +69,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++

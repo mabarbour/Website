@@ -4,7 +4,7 @@ date = 2015-02-06T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["MA Barbour","MA Rodriguez-Cabal", "E Wu", "R Julkunen-Tiitto", "CE Ritland", "AE Miscampbell", "ES Jules", "GM Crutsinger"]
+authors = ["**MA Barbour**","MA Rodriguez-Cabal", "E Wu", "R Julkunen-Tiitto", "CE Ritland", "AE Miscampbell", "ES Jules", "GM Crutsinger"]
 
 # Publication type.
 # Legend:
@@ -47,11 +47,11 @@ url_pdf = "pdf/Barbour_et_al_2015-Functional-Ecology.pdf"
 url_preprint = ""
 url_code = "http://datadryad.org/resource/doi:10.5061/dryad.b1296"
 url_dataset = "http://datadryad.org/resource/doi:10.5061/dryad.b1296"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -70,7 +70,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++

@@ -4,7 +4,7 @@ date = 2012-05-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["RW Clark","S Tangco","MA Barbour"]
+authors = ["RW Clark","S Tangco","**MA Barbour**"]
 
 # Publication type.
 # Legend:
@@ -47,11 +47,11 @@ url_pdf = "pdf/Clark_et_al-2012-Animal_Behavior.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "pdf/mmc1.pdf"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -69,8 +69,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++

@@ -4,7 +4,7 @@ date = 2017-01-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["MM Osmond","MA Barbour","JR Bernhardt","MW Pennell","JM Sunday","MI O'Connor"]
+authors = ["MM Osmond","**MA Barbour**","JR Bernhardt","MW Pennell","JM Sunday","MI O'Connor"]
 
 # Publication type.
 # Legend:
@@ -46,12 +46,12 @@ tags = []
 url_pdf = "https://github.com/mmosmond/TSRMODEL/blob/master/FINALVERSION/mainfinal.pdf"
 url_preprint = ""
 url_code = "https://github.com/mmosmond/TSRMODEL"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -68,8 +68,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++

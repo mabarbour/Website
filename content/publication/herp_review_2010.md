@@ -4,7 +4,7 @@ date = 2010-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["ZA Cava","MA Barbour"]
+authors = ["ZA Cava","**MA Barbour**"]
 
 # Publication type.
 # Legend:
@@ -45,13 +45,13 @@ tags = []
 # Links (optional).
 url_pdf = "pdf/Cava-2010-Herp_Review.pdf"
 url_preprint = ""
-url_code = "http://datadryad.org/resource/doi:10.5061/dryad.b1296"
-url_dataset = "http://datadryad.org/resource/doi:10.5061/dryad.b1296"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -70,9 +70,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

@@ -1,5 +1,5 @@
 +++
-title = "Caught in the web: Spider web architectures affect prey specialization and stoichiometric relationships."
+title = "Caught in the web: Spider web architectures affect prey specialization and stoichiometric relationships"
 date = 2018-05-01T00:00:00
 draft = false
 
@@ -69,7 +69,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++

@@ -4,7 +4,7 @@ date = 2012-03-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["MA Barbour, RW Clark"]
+authors = ["**MA Barbour**, RW Clark"]
 
 # Publication type.
 # Legend:
@@ -70,9 +70,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

@@ -4,7 +4,7 @@ date = 2016-04-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["CJ Greyson-Gaito","MA Barbour","MA Rodriguez-Cabal","GM Crutsinger","GHR Henry"]
+authors = ["CJ Greyson-Gaito","**MA Barbour**","MA Rodriguez-Cabal","GM Crutsinger","GHR Henry"]
 
 # Publication type.
 # Legend:
@@ -47,11 +47,11 @@ url_pdf = "pdf/Greyson-Gaito_et_al-2016-Canadian_Entomologist.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -69,10 +69,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
