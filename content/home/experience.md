@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Zurich, ZH Switzerland"
   date_start = "2016-11-01"
   date_end = ""
-  description = ""
+  description = "Advisor: Jordi Bascompte"
 
 [[experience]]
   title = "PhD in Zoology"
@@ -34,7 +34,7 @@ date_format = "January 2006"
   location = "Vancouver, BC Canada"
   date_start = "2011-09-01"
   date_end = "2016-09-15"
-  description = ""
+  description = "Advisor: Greg Crutsinger"
   
 [[experience]]
   title = "MSc in Ecology"
@@ -43,6 +43,15 @@ date_format = "January 2006"
   location = "San Diego, CA USA"
   date_start = "2008-09-01"
   date_end = "2011-05-01"
+  description = "Advisor: Rulon Clark"
+  
+[[experience]]
+  title = "BA in Biology"
+  company = "Pomona College"
+  company_url = ""
+  location = "Clarement, CA USA"
+  date_start = "2003-09-01"
+  date_end = "2007-05-01"
   description = ""
 
 +++
