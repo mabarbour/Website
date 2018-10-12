@@ -58,7 +58,7 @@ url_source = ""
 # url_custom = [{name = "*Journal of Ecology* Blog", url = "https://jecologyblog.com/2018/08/19/tracing-plant-genotype-by-environment-effects-on-biodiversity/"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1038/s41559-017-0385-2"
+doi = "10.1038/s41559-017-0385-2"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
