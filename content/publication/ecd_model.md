@@ -1,6 +1,6 @@
 +++
 title = "Ecological character displacement can destabilize food-web dynamics"
-date = 2018-01-01T00:00:00
+date = 2018-10-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
