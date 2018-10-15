@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Phenotypic evolution in a community context"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "test"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "boards.jpg"
@@ -23,3 +23,4 @@ math = false
 
 +++
 
+test
