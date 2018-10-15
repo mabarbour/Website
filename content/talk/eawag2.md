@@ -1,5 +1,5 @@
 +++
-title = "From Genes to Ecosystems: Eco-Evolutionary Dynamics of Plant-Insect Food Webs"
+title = "Center for Ecology, Evolution, and Biogeochemistry (EAWAG)"
 date = 2017-12-06T14:00:00  # Schedule page publish date.
 draft = false
 
@@ -16,7 +16,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Center for Ecology, Evolution, and Biogeochemistry (EAWAG)"
+event = "From Genes to Ecosystems: Eco-Evolutionary Dynamics of Plant-Insect Food Webs"
 event_url = ""
 
 # Location of event.
