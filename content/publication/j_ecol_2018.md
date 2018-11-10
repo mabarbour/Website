@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "Graphical_Abstract_JEcol-2018-0151.R1.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
