@@ -26,10 +26,6 @@ abstract = "Intraspecific variation can be an important driver of ecological int
 
 abstract_short = "We conducted multiple field experiments to quantify the relative importance of trait plasticity vs. genetic variation in structuring the diversity of plant‐associated communities. We found that plasticity in plant traits was more important than genetic variation, a result that was consistent across different environmental contexts, multiple years, and for above‐ground arthropods and root microbes. This occurred because the traits that had the largest effect on species richness were also the most plastic. Our results highlight the importance of merging trait-based and GxE approaches to understand how individual-level variation scales up to structure species-rich communities."
 
-We need to continue merging
-trait‐based approaches with genotype‐by‐environment studies if we
-want to understand how individual‐level variation scales up to struc‐
-ture species‐rich communities.
 
 # Featured image thumbnail (optional)
 image_preview = "Graphical_Abstract_JEcol_2018.jpeg"
