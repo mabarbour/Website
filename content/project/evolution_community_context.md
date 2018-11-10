@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Phenotypic evolution in a community context"
+title = "Evolution in a community context"
 
 # Project summary to display on homepage.
 summary = "test"
