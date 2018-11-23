@@ -43,4 +43,10 @@ filter_default = 0
 
 +++
 
+<!--
+Questions that guide my current and future research include: (1) How does intraspecific variation structure multitrophic communities? (2) How does community context shape phenotypic evolution? (3) Click on the links to specific projects below to see how my research program is answering these questions. 
+-->
+
+<!--
 Biodiversity is more than simply the amount of genetic diversity within a population or the number of species in a community. Such coarse notions of biodiversity lend us little power in predicting the robustness of populations or communities to environmental change. In contrast, the structure of biodiversity (**biostructure**) can have profound consequences for its robustness. For example, the structure of a population's G-matrix (additive genetic (co)variances in functional traits) determines its capacity to evolve in response to novel selection pressures. Similarly, the strength and organization of trophic interactions (food-web structure) determine how communities and ecosystems will respond to disturbances. While it is clear that biostructure underlies the robustness of biodiversity, we know little about how biostructure is shaped across biological scales. Ecological interactions (e.g. predation, pollination, herbivory, parasitism) provide a mechanistic link between biostructure at different levels of biological organization. This is because ecological interactions link populations in a community context and can shape, and be shaped by, heritable trait (co)variation.
+-->
