@@ -43,6 +43,18 @@ filter_default = 0
 
 +++
 
+Ecologists are tasked with the urgent challenge of predicting how populations, communities, and ecosystems will respond to environmental change. 
+A food-web approach is well suited to addressing this challenge as the strength and organization of trophic interactions (food-web structure) influences the abundance of populations, the diversity of species in a community, and the flow of energy through an ecosystem.
+Nevertheless, most food-web research does not consider the diverse sources of biological variation (biodiversity) that ultimately <!--scale up to-->determine the form and function of food webs<!--food-web structure.-->.  
+This limits our current ability to predict how the structure and function of food webs will respond to ongoing environmental change. 
+
+**My research aims to better understand the forces shaping food-web structure so that we can better predict the dynamics of populations, communities, and ecosystems in a changing world.** 
+I conduct field observations as well as field and lab experiments in order to better understand how changes in the biotic and abiotic environment affect food-web structure. 
+To gain new insights, I often incorporate methods from fields outside of traditional food-web research, such as quantitative genetics and adaptive landscapes.
+I also develop [theoretical models](https://boring-fermat-2807cd.netlify.com/publication/ecd_model/) to help guide future empirical studies. 
+My current research is focused on addressing two major challenges: (i) *Scaling from genes-to-ecosystems in a changing world*; and (ii) *Predicting food-web dynamics across space and time*. 
+If you want to learn more about these current projects (or my really interesting past project on the *Behavioral ecology of rattlesnakes*), click on their project icon below.
+
 <!--
 Questions that guide my current and future research include: (1) How does intraspecific variation structure multitrophic communities? (2) How does community context shape phenotypic evolution? (3) Click on the links to specific projects below to see how my research program is answering these questions. 
 -->
