@@ -34,9 +34,22 @@ weight = 5
  
 +++
 
+<!-- Updated
+
+**My research aims to predict how changes in the environmental context will alter the dynamics and resilience of multi-trophic communities.**
+
+Behavioral ecology of predator-prey interactions
+
+Genetic context
+
+Community context
+
+-->
+
+<!-- Current -->
 **I study how ecological interactions shape the structure and dynamics of biodiversity ---from genes to ecosystems.** My research incorporates state-of-the-art methods from diverse fields, including quantitative genetics, evolutionary ecology, and complex networks. I apply these methods to field observations as well as field and lab experiments designed to answer fundamental questions about the structure and dynamics of biodiversity. While my taxonomic expertise is broad, my current and future research focuses on plants, herbivorous insects, and their parasitoids, whose feeding interactions regulate much of Earth's biodiversity.
 
-<!--
+<!-- Very old
 My goals as an evolutionary ecologist are twofold: (1) understand how ecological interactions shape the structure and dynamics of biodiversity ---from genes to ecosystems; and (2) communicate the importance of conserving biodiversity through teaching and community outreach.
 
 
