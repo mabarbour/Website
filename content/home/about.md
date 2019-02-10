@@ -34,7 +34,7 @@ weight = 5
  
 +++
 
-**I study food webs ---how they're formed, how they function, and how they're changing.** I'm particularly interested in understanding the food webs created by insects. These little animals comprise the majority of species in the animal kingdom and the food webs they form influence the health of both agricultural and natural ecosystems. Check out my Project or Publications pages to learn more about the research I'm doing. 
+**I study food webs ---how they're formed, how they function, and how they're changing.** I'm particularly interested in understanding the food webs created by insects. These little animals comprise the majority of species in the animal kingdom and the food webs they form influence the health of both agricultural and natural ecosystems. Check out my Project or Publications pages if you want to learn more about the specific research I'm doing. 
 
 
 <!-- Old 
