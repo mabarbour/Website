@@ -45,7 +45,7 @@ filter_default = 0
 
 Ecologists are tasked with the urgent challenge of predicting how populations, communities, and ecosystems will respond to environmental change. 
 A food-web approach is well suited to addressing this challenge as the strength and organization of trophic interactions (food-web structure) influences the abundance of populations, the diversity of species in a community, and the flow of energy through an ecosystem.
-Nevertheless, most food-web research does not consider the diverse sources of biological variation (biodiversity) that ultimately <!--scale up to-->determine the form and function of food webs<!--food-web structure.-->.  
+Nevertheless, most food-web research does not consider the diverse sources of biotic and abiotic variation that ultimately determine the form and function of food webs. 
 This limits our current ability to predict how the structure and function of food webs will respond to ongoing environmental change. 
 
 **My research aims to better understand the forces shaping food-web structure so that we can better predict the dynamics of populations, communities, and ecosystems in a changing world.** 
