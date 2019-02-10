@@ -1,0 +1,77 @@
+---
+title: "Project-Paper Relationships"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+```
+
+## Goal
+
+I'm interested in finding a natural grouping amongst past, current, and future papers and the good summary names for those projects. I hope that by visualizing these projects as a bipartite network, I will be able to reiterate to find a natural grouping.
+
+```{r}
+papers <- c("Cava_2010","Joshi_2011","Barbour_2012_Ethology","Clark_2012","Barbour_2012_ProcB","Barbour_2015","Barbour_2016","Putman_2016","Greyson-Gaito_2016","Slinn_2016","Osmond_2017","Rudman_2018","Ludwig_2018","Barbour_2018","Barbour_UHURU","Barbour_ECD","Barbour_Selection","Fortuna_Biogeography","Fortuna_Coevolution","Barbour_Arabidopsis","Barbour_Donana","Barbour_GxE.Networks","Barbour_Angelica","Barbour_PredatorPreyRichness","Biostructure","Coevolution_Experiment","Global_Ptoids")
+
+paper_topic_network <- data.frame(keywords = rep(NA, length(papers)), row.names = papers)
+
+paper_topic_network["Cava_2010",] <- "field; observation; predator"
+
+paper_topic_network["Joshi_2011",] <- "field; experiment; predator; prey; behavior; signals; environmental context; behavioral context"
+
+paper_topic_network["Barbour_2012_Ethology",] <- "field; observation; predator; prey; behavior; environmental context; abiotic context"
+
+paper_topic_network["Clark_2012",] <- "field; observation; predator; prey; behavior; environmental context; behavioral context"
+
+paper_topic_network["Barbour_2012_ProcB",] <- "field; observation; predator; prey; behavior; signals; environmental context; behavioral context"
+
+paper_topic_network["Barbour_2015",] <- "field; experiment; quantitative genetics; plants; herbivores; intraspecific variation; environmental context; genetic context"
+
+paper_topic_network["Putman_2016",] <- "field; observation; predator; prey; behavior"
+
+paper_topic_network["Barbour_2016",] <- "field; experiment; quantitative genetics; plants; herbivores; parasitoids; intraspecific variation; food web; ecological network; environmental context; genetic context"
+
+paper_topic_network["Greyson-Gaito_2016",] <- "field; experiment; plants; herbivores"
+
+paper_topic_network["Slinn_2016",] <- "field; experiment; plants; predators; fungus; indirect effects; intraspecific variation; genetic variation; environmental context; genetic context"
+
+paper_topic_network["Osmond_2017",] <- "mathematical model; temperature; consumer-resource; temperature; phenotypic plasticity; dynamics; stability; abiotic context; environmental context"
+
+paper_topic_network["Rudman_2018",] <- "perspective; genomics; eco-evo dynamics; intraspecific variation; genetic variation; quantitative genetics"
+
+paper_topic_network["Ludwig_2018",] <- "field; observation; predator; prey; food web; stoichiometry; consumer-resource"
+
+paper_topic_network["Barbour_2018",] <- "field; experiment; GxE; intraspecific variation; plants; herbivores; predators; fungi; bacteria; environmental context; biotic context; abiotic context; genetic context; community context" 
+
+paper_topic_network["Barbour_UHURU",] <- "field; experiment; plants; herbivores; predators; parasitoids; arthropods; large mammals; environmental context; abiotic context; biotic context; community context" 
+
+paper_topic_network["Barbour_ECD",] <- "mathematical model; consumer-resource; dynamics; stability; phenotypic evolution; natural selection; competition; theory; community context; environmental context" 
+
+paper_topic_network["Barbour_Selection",] <- "field; experiment; consumer-resource; plants; herbivores; parasitoids; phenotypic evolution; adaptive landscape; natural selection; adaptive capacity; theory; community context; environmental context; biotic context"
+
+paper_topic_network["Fortuna_Biogeography",] <- "observation; big data; consumer-resource; ecological network; biogeography"
+
+paper_topic_network["Fortuna_Coevolution",] <- "lab; experiment; bacteria; phage; consumer-resource; dynamics; coevolution; environmental context; abiotic context"
+
+paper_topic_network["Barbour_Arabidopsis",] <- "lab; experiment; plants; herbivores; parasitoids; consumer-resource; food web; dynamics; stability; intraspecific variation; environmental context; genetic diversity; abiotic context"
+
+paper_topic_network["Barbour_Donana",] <- "field; observation; ecological network; plants; pollinators; parasitoids; consumer-resource; dynamics; community context; environmental context" 
+
+paper_topic_network["Barbour_GxE.Networks",] <- "perspective; GxE; ecological network; food web; intraspecific variation; genetic variation; phenotypic plasticity; community context; abiotic context; genetic context"
+
+paper_topic_network["Barbour_Angelica",] <- "field; observation; food web; predator; prey; spiders; insects; intraspecific variation; environmental context"
+
+paper_topic_network["Barbour_PredatorPreyRichness",] <- "field; experiment; plants; herbivores; predators; parasitoids; consumer-resource; theory"
+
+paper_topic_network["Biostructure",] <- "perspective; dynamics; stability; genes-to-ecosystems; adaptive capacity" 
+
+paper_topic_network["Coevolution_Experiment",] <- "lab; experiments; dynamics" 
+
+paper_topic_network["Global_Ptoids",] <- "observation; big data; herbivores; parasitoids; macroevolution; prediction" 
+
+paper_topic_network
+```
+
