@@ -34,19 +34,12 @@ weight = 5
  
 +++
 
-<!-- Updated
+**I study food webs ---how they're formed, how they function, and how they're changing.** I'm particularly interested in understanding the food webs created by insects. These little animals comprise the majority of species in the animal kingdom and the food webs they form influence the health of both agricultural and natural ecosystems. Check out my Project or Publications pages to learn more about the research I'm doing. 
 
-**My research aims to predict how changes in the environmental context will alter the dynamics and resilience of multi-trophic communities.**
 
-Behavioral ecology of predator-prey interactions
+<!-- Old 
+I'm particularly interested understanding the trophic interactions between plants, the insects that feed on them, and the insects that parasitize those insects (if you don't know what a parasitoid is, click here to have your mind blown)<!--herbivorous insects, and parasitoid wasps.
 
-Genetic context
-
-Community context
-
--->
-
-<!-- Current -->
 **I study how ecological interactions shape the structure and dynamics of biodiversity ---from genes to ecosystems.** My research incorporates state-of-the-art methods from diverse fields, including quantitative genetics, evolutionary ecology, and complex networks. I apply these methods to field observations as well as field and lab experiments designed to answer fundamental questions about the structure and dynamics of biodiversity. While my taxonomic expertise is broad, my current and future research focuses on plants, herbivorous insects, and their parasitoids, whose feeding interactions regulate much of Earth's biodiversity.
 
 <!-- Very old
